@@ -1,0 +1,303 @@
+
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	  
+	* {
+		
+	}
+	
+	body {
+		
+	}
+	
+	.out, #page, #content, .highlight-text, #footer, .work-box-main {
+		width: 720px;
+	}
+	#logo {
+		background-size: 100%;
+		width: 138px;
+	}
+	.highlight {
+		height: 295px;
+	}
+	.highlight img, .work-box-main img, .post-images img {
+		max-width: 720px;
+		height: auto;
+	}
+	.highlight-text {
+		height: 80px;
+		margin-top: -80px;
+	}
+	a .highlight-text-arrow {
+		background-size: 100%;
+		width: 50px;
+		height: 56px;
+	}
+	.h4_tit {
+		font-size: 12px;
+	}
+	.h3_tit {
+		font-size: 24px;
+	}
+	
+	.list-thumb div {
+		width: 226px;
+	}
+	.list-thumb div.post a {
+		height: 225px;
+	}
+	.list-thumb div img {
+		max-width: 226px;
+		height: auto;
+	}
+	#busca-area {
+		background: url(images/lupa.png) no-repeat 132px 10px;
+	}
+	
+	#busca-area input {
+		width: 90px;
+	}
+	
+	#menu {
+		right: 155px;
+	}
+	
+	#menu ul li {
+		margin-left: 6px;
+	}
+	#menu ul li a {
+		padding: 10px 8px 9px;
+	}
+	
+	.list-open-thumb-inner {
+		width: 450px;
+	}
+	.list-open-infos.inside {
+		width: 180px
+	}
+	
+	
+	#footer-infos {
+		width: 50%;
+	}
+	#footer-networks, #post-networks {
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width : 767px) {
+	
+	* {
+	
+	}
+	
+	body {
+		
+	}
+	body {
+		background: #000 !important;
+		font-size: 16px;
+		line-height: 27px;
+	}
+	#content {
+		background: #000;
+	}
+	h2.pagetitle {
+		padding: 20px 0 0 15px;
+		margin-bottom: 20px;
+	}
+	.view_options {
+		display: none;
+	}
+	.view_tags {
+		margin-left: 0;
+		top: 0;
+		clear: both;
+		float: none;
+		position: relative;
+		margin-bottom: 30px;
+	}
+	.tags_list {
+		width: 100%;
+	}
+	.tags_list a {
+		padding: 4px 20px;
+	}
+	.out, #page, #content, #footer {
+		width: 100%;
+		padding: 0;
+	}
+	#header {
+		height: 150px;
+		z-index: 2;
+	}
+	#header.aberto {
+		height: 320px;
+	}
+	.highlight-text, .work-box-main {
+		
+	}
+	#logo {
+		background-size: 100%;
+		width: 140px;
+		top: 5px;
+		left: 12px;
+	}
+	#menu_controls {
+		color: #fff;
+		font-size: 34px;
+		display: block;
+		
+		position: absolute;
+		top: 60px;
+		right: 190px;
+	}
+	#menu_controls a:hover {
+		opacity: 0.75;
+	}
+	#menu {
+		display: none;
+	    float: left;
+	    height: auto;
+	    left: 0;
+	    margin-top: 0;
+	    position: absolute;
+	    top: 112px;
+	    width: 100%;
+	}
+	
+	#menu ul li {
+		float: none;
+		text-align: center;
+		margin-left: 0;
+		
+	}
+	#menu ul li a {
+		padding: 10px 0;
+		display: block;
+		font-size: 17px;
+	}
+	.highlight {
+		height: auto;
+		overflow: hidden;
+	}
+	.highlight img {
+		max-width: 160%;
+		margin-left: -30%;
+		height: auto;
+	}
+	
+	.work-box-main img, .post-images img {
+		max-width: 100%;
+		height: auto;
+	}
+	.highlight-text {
+		width: 100%;
+	}
+	a .highlight-text-arrow {
+		background-size: 100%;
+		width: 50px;
+		height: 56px;
+		top: 22px;
+		display: none;
+	}
+	.h4_tit {
+		font-size: 12px;
+	}
+	.h3_tit {
+		font-size: 21px;
+	}
+	blockquote, .work-box-main {
+		width: 100%;
+	}
+	.entry {
+		padding: 0 15px;
+		margin-top: 40px;
+	}
+	.parte50, .parte33 {
+		width: 100%;
+		margin: 0 0 30px 0;
+	}
+	.share {
+		padding-left: 15px;
+	}
+	
+	.list-thumb div {
+		width: 100%;
+		float: none;
+		margin-bottom: 0;
+	}
+	.list-thumb div.post a {
+		height: auto;
+	}
+	.list-thumb div img {
+		max-width: 100%;
+		width: 100%;
+		height: auto;
+	}
+	.home .list-thumb div.nope {
+		padding: 10px 20px 0 20px;
+		width: auto !important;
+	}
+	#busca-area {
+		background: url(images/lupa.png) no-repeat 118px 17px;
+		right: 15px;
+	}
+	#busca-area.buscando {
+		background: url(images/loading_busca.gif) no-repeat 116px 17px;
+	}
+	
+	#busca-area input {
+		width: 110px;
+		height: 30px;
+	}
+	#sugestoes {
+		width: 148px;
+	}
+	#resultado {
+		width: 148px;
+	}
+	#content .pagetitle-top {
+		margin-bottom: 20px;
+	}
+	#content .pagetitle-top a {
+		margin-left: 15px;
+		margin-bottom: 20px;
+	}
+	.list-open-thumb {
+		padding: 0 15px;
+		float: none;
+		margin-right: 0;
+	}
+	.list-open-thumb p {
+		padding-right: 0;
+	}
+	.list-open-thumb, .list-open-thumb-inner {
+		width: auto;
+	}
+	.list-open-infos.inside {
+		padding: 0 3%;
+		width: 94%;
+	}
+	.post-images img.espacamento {
+		margin-bottom: 25px;
+	}
+	.highlight-text {
+		display: block !important;
+	}
+	
+	#footer-infos {
+		width: auto;
+		margin: 20px 0 20px 20px;
+	}
+	#footer-networks, #post-networks {
+		width: 100%;
+	}
+	#footer-networks ul, #post-networks ul {
+		float: left;
+	}
+	#footer-networks ul li, #post-networks ul li {
+		margin-left: 20px;
+	}
+	
+}

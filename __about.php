@@ -1,0 +1,3 @@
+<?
+include("__page.php");
+?>

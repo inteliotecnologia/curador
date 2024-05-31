@@ -1,0 +1,9 @@
+Version 1.1.0
+
+ - New default tooltip style to remove most IE quirks.
+ - There are now 8 included tooltip styles to choose from.
+ - Minor bug fixes.
+
+Version 1.0.0
+
+ - Initial Release.

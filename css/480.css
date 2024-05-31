@@ -1,0 +1,83 @@
+
+* {
+	
+}
+
+body {
+	
+}
+
+#out, #page, #content, .highlight-text, #footer, .work-box-main {
+	width: 460px;
+}
+#logo {
+	background-size: 100%;
+	width: 120px;
+	top: 5px;
+}
+.highlight {
+	height: 295px;
+}
+.highlight img, .work-box-main img, .post-images img {
+	max-width: 460px;
+	height: auto;
+}
+.highlight-text {
+	height: 80px;
+	margin-top: -80px;
+}
+a .highlight-text-arrow {
+	background-size: 100%;
+	width: 50px;
+	height: 56px;
+}
+.h4_tit {
+	font-size: 12px;
+}
+.h3_tit {
+	font-size: 24px;
+}
+
+.list-thumb div {
+	width: 226px;
+}
+.list-thumb div.post a {
+	height: 225px;
+}
+.list-thumb div img {
+	max-width: 226px;
+	height: auto;
+}
+#busca-area {
+	background: url(images/lupa.png) no-repeat 132px 10px;
+}
+
+#busca-area input {
+	width: 90px;
+}
+
+#menu {
+	right: 155px;
+}
+
+#menu ul li {
+	margin-left: 6px;
+}
+#menu ul li a {
+	padding: 10px 8px 9px;
+}
+
+.list-open-thumb-inner {
+	width: 450px;
+}
+.list-open-infos.inside {
+	width: 180px
+}
+
+
+#footer-infos {
+	width: 50%;
+}
+#footer-networks, #post-networks {
+	width: 50%;
+}
